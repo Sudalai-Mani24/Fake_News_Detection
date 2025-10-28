@@ -1,0 +1,6 @@
+id,title,predicted_label,prob_real,predicted_at
+1,Tesla shares surge after positive earnings report,REAL,0.7467498527041535,2025-09-22 09:53:39.893120
+2,Government secretly plans to ban all electric cars,FAKE,0.23184606382107367,2025-09-22 09:53:39.893120
+3,Apple announces new iPhone with revolutionary features,REAL,0.7461110006477805,2025-09-22 09:53:39.893120
+4,"Elon Musk arrested for fraud, stock to crash 50%",FAKE,0.26389213454579674,2025-09-22 09:53:39.893120
+5,New study shows solar energy adoption is rising globally,FAKE,0.3134710774717437,2025-09-22 09:53:39.893120

@@ -1,0 +1,15 @@
+id,title,description,published_at,source
+1,Apple reports record earnings,Apple announces quarterly earnings surpassing estimates,2025-09-20,Yahoo Finance
+2,Tesla recalls 1000 cars,Tesla recalls cars due to battery issues,2025-09-21,NewsAPI
+3,Elon Musk unveils new rocket design,Musk presents revolutionary rocket concept at press event,2025-09-04,BBC
+4,Microsoft acquires AI startup,Microsoft expands AI capabilities with strategic acquisition,2025-08-30,NewsAPI
+5,Global oil prices hit 5-year high,Crude oil prices surge due to geopolitical tensions,2025-09-22,Yahoo Finance
+6,Facebook introduces new privacy tools,Facebook updates privacy settings to enhance user control,2025-09-02,TechCrunch
+7,Amazon launches drone delivery service,Amazon begins testing drone-based deliveries in select cities,2025-09-18,Bloomberg
+8,Google AI beats human champion in quiz,Google's AI system outperforms humans in challenging quiz,2025-09-02,CNN
+9,Netflix announces record subscriber growth,Netflix sees unprecedented growth in Q3 subscribers,2025-09-09,Yahoo Finance
+10,Bitcoin price crashes amid regulation fears,Cryptocurrency market reacts to new government regulations,2025-09-03,Yahoo Finance
+11,New climate report warns of extreme heatwaves,Latest IPCC report highlights severe climate risks globally,2025-08-31,NewsAPI
+12,SpaceX successfully lands Starship prototype,SpaceX lands Starship prototype successfully in Texas,2025-09-09,Bloomberg
+13,FDA approves breakthrough cancer drug,FDA gives green light to innovative cancer therapy,2025-08-26,CNN
+14,UN warns of global water shortage by 2030,UN report predicts critical water shortages worldwide,2025-09-17,NewsAPI

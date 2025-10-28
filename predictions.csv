@@ -1,0 +1,15 @@
+id,title,description,published_at,source,predicted_label,prob_real,predicted_at
+1,Apple reports record earnings,Apple announces quarterly earnings surpassing estimates,2025-09-20,Yahoo Finance,REAL,0.725806565798297,2025-09-22 10:49:35.327931
+2,Tesla recalls 1000 cars,Tesla recalls cars due to battery issues,2025-09-21,NewsAPI,REAL,0.5028491935354487,2025-09-22 10:49:35.327931
+3,Elon Musk unveils new rocket design,Musk presents revolutionary rocket concept at press event,2025-09-04,BBC,FAKE,0.3801229152412819,2025-09-22 10:49:35.327931
+4,Microsoft acquires AI startup,Microsoft expands AI capabilities with strategic acquisition,2025-08-30,NewsAPI,REAL,0.7312894870534987,2025-09-22 10:49:35.327931
+5,Global oil prices hit 5-year high,Crude oil prices surge due to geopolitical tensions,2025-09-22,Yahoo Finance,REAL,0.7430368481000633,2025-09-22 10:49:35.327931
+6,Facebook introduces new privacy tools,Facebook updates privacy settings to enhance user control,2025-09-02,TechCrunch,REAL,0.6760302329340091,2025-09-22 10:49:35.327931
+7,Amazon launches drone delivery service,Amazon begins testing drone-based deliveries in select cities,2025-09-18,Bloomberg,REAL,0.6610995727217106,2025-09-22 10:49:35.327931
+8,Google AI beats human champion in quiz,Google's AI system outperforms humans in challenging quiz,2025-09-02,CNN,REAL,0.6659151211571034,2025-09-22 10:49:35.327931
+9,Netflix announces record subscriber growth,Netflix sees unprecedented growth in Q3 subscribers,2025-09-09,Yahoo Finance,REAL,0.7869467208216593,2025-09-22 10:49:35.327931
+10,Bitcoin price crashes amid regulation fears,Cryptocurrency market reacts to new government regulations,2025-09-03,Yahoo Finance,FAKE,0.30864916384935204,2025-09-22 10:49:35.327931
+11,New climate report warns of extreme heatwaves,Latest IPCC report highlights severe climate risks globally,2025-08-31,NewsAPI,REAL,0.633380820833349,2025-09-22 10:49:35.327931
+12,SpaceX successfully lands Starship prototype,SpaceX lands Starship prototype successfully in Texas,2025-09-09,Bloomberg,REAL,0.5000147723540994,2025-09-22 10:49:35.327931
+13,FDA approves breakthrough cancer drug,FDA gives green light to innovative cancer therapy,2025-08-26,CNN,REAL,0.5000147723540994,2025-09-22 10:49:35.327931
+14,UN warns of global water shortage by 2030,UN report predicts critical water shortages worldwide,2025-09-17,NewsAPI,REAL,0.6297013961090024,2025-09-22 10:49:35.327931
