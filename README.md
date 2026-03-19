@@ -55,28 +55,40 @@ python run_pipeline.py
 
 💡 Key Features
 
-✔️ End-to-end automated pipeline
+✔️ End-to-end automated data pipeline
+
 ✔️ Fake news detection + sentiment analysis
-✔️ Real-time data integration (news + stocks)
-✔️ PostgreSQL storage for scalable analysis
-✔️ Modular & production-ready architecture
+
+✔️ Real-time data integration (news + stock data)
+
+✔️ PostgreSQL storage for scalable data handling
+
+✔️ Modular and production-ready architecture
 
 📊 Future Enhancements
 
 📉 Advanced sentiment models (BERT / FinBERT)
+
 📊 Interactive dashboard (Streamlit / Power BI)
+
 ⏱️ Real-time streaming pipeline
-📈 Time-series forecasting of stock trends
-🧠 Improved fake news dataset for better accuracy
+
+📈 Time-series forecasting for stock trends
+
+🧠 Enhanced fake news dataset for improved accuracy
 
 🎯 Use Cases
 
-*Financial market analysis
-*Algorithmic trading insights
-*News credibility tracking
-*Business intelligence dashboards
+Financial market analysis
+
+Algorithmic trading insights
+
+News credibility tracking
+
+Business intelligence dashboards
 
 🧑‍💻 Author
 
-Sudalai Mani S,
-B.E Computer Science and Engineering graduate(2025) | AI & Data Science Enthusiast
+Sudalai Mani S
+B.E Computer Science and Engineering (2025)
+AI & Data Science Enthusiast
